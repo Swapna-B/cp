@@ -8,6 +8,10 @@ void main()
         printf("%d",a*b);
           printf("%d",a/b);  
        printf("%d",a%b);  
+         printf("hello");
+           printf("welcome");
+             printf("djfhdxfhdf");
+
     
     
     
