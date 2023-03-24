@@ -11,6 +11,12 @@ void main()
          printf("hello");
            printf("welcome");
              printf("djfhdxfhdf");
+     printf("new line added");
+           printf("hello");
+             printf("hi");
+    
+
+    
 
     
     
